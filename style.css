@@ -52,12 +52,12 @@ main.main {
     height: 80vh;
     flex-grow: 3;
     border: 3px solid #FEF9EF;
-    background-color: #17C3B2;
+    background-color: #FFCB77;
 }
 
 aside.aside {
     height: 80vh;
     flex-grow: 1;
     border: 3px solid #FEF9EF;
-    background-color: #17C3B2;
+    background-color: #FFCB77;
 }
